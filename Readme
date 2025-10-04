@@ -1,0 +1,8 @@
+# 1. Installation des dépendances
+pip install torch torchvision transformers timm pandas matplotlib seaborn scipy
+
+# 2. Exécution de l'étude principale
+python vision_comparison.py
+
+# 3. Exécution de l'analyse statistique
+python statistical_analysis.py
